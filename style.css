@@ -4,6 +4,8 @@ font-family: cormorant, serif;
 
 h1 {
     display: inline-block;
+    font-weight: 300;
+    margin: 0 32px 0 0;
 } 
 .links{
     display: inline-block;
@@ -13,6 +15,10 @@ h1 {
 .links li{
     display: inline-block; 
 } 
+.links ul{
+    padding: 0;
+}
+
 
 .links a{
     color: black;
@@ -22,6 +28,13 @@ h1 {
 }
 nav{
     display: inline-block;
+} 
+a.active{
+border-bottom: 1px solid black;
+}
+
+.navbar{
+    margin: 32px;
 }
 
 li{
