@@ -1,1 +1,4 @@
-font: cormorant
+font: cormorant 
+c:\Users\tohiba\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\D3D9446802A44259755D38E6D163E820\WhatsApp Image 2023-12-25 at 21.44.54_6351ce40.jpg
+c:\Users\tohiba\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\C51CE410C124A10E0DB5E4B97FC2AF39\WhatsApp Image 2023-12-25 at 21.44.54_63e57ac2.jpg
+c:\Users\tohiba\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\AAB3238922BCC25A6F606EB525FFDC56\WhatsApp Image 2023-12-25 at 21.44.55_94eab715.jpg
