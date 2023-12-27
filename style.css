@@ -61,6 +61,22 @@ border-bottom: 1px solid black;
 }
 li{
     display: inline-block;
+}  
+.About {
+    width: 40%;
+    min-width: 600px;
+    margin: 50px 0 50px 100px;
+}
+.About h3{
+font-size: 40;
+font-weight: 300;
 } 
 
+.contact{
+    margin-top:100px;
+} 
 
+.contact p{
+    margin: 0;
+    font-size: 20px;
+}
