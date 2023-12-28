@@ -72,8 +72,13 @@ font-size: 40;
 font-weight: 300;
 } 
 
+.ctd {
+    border-bottom: 1px solid black;
+    display: inline-block;
+}
 .contact{
-    margin-top:100px;
+    margin-top:0;
+    font-size: 20px;
 } 
 
 .contact p{
