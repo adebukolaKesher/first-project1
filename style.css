@@ -75,6 +75,8 @@ font-weight: 300;
 .ctd {
     border-bottom: 1px solid black;
     display: inline-block;
+    padding-bottom: 8px;
+    margin-top: 0;
 }
 .contact{
     margin-top:0;
@@ -85,3 +87,5 @@ font-weight: 300;
     margin: 0;
     font-size: 20px;
 }
+
+
